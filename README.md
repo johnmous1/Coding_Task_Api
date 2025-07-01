@@ -42,7 +42,7 @@ Open the solution file (.sln) in Visual Studio 2022.
 
 Press F5 or the Start button (▶) to build and run the project.
 
-The API will launch, and a browser window will open to the Swagger UI (https://localhost:xxxx/swagger).
+The API will launch, and a browser window will open to the Swagger UI (https://localhost:7253/swagger).
 
 🧪 Testing Workflow
 Use the Swagger UI to test the endpoints in the following order. You will need to copy the id from the response of one step to use in the request of the next step.
